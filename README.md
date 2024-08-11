@@ -24,11 +24,16 @@ To get started with this project, follow these steps:
    ```bash
    npm install
    ```
-4. **Run the Application**: Start the development server by executing:
+   > Note: The `node_modules` directory is not included in the repository due to its large size. Running `npm install` will regenerate this directory.
+4. **Install React and React-DOM**: If not already included, ensure you install the necessary React dependencies:
+   ```bash
+   npm install react react-dom
+   ```
+5. **Run the Application**: Start the development server by executing:
    ```bash
    npm run dev
    ```
    This will launch the application locally, typically accessible at `http://localhost:3000`.
-5. **Customize as Needed**: The project is designed to be easily customizable. Modify the CSS or add additional components as needed to fit your specific requirements.
+6. **Customize as Needed**: The project is designed to be easily customizable. Modify the CSS or add additional components as needed to fit your specific requirements.
+7. **Contribute**: Feel free to contribute to this project by submitting pull requests or opening issues. Contributions are always welcome!
 
-This setup will allow you to explore the features and functionality of the login page and integrate it into your own projects.
