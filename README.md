@@ -37,5 +37,3 @@ To get started with this project, follow these steps:
 6. **Customize as Needed**: The project is designed to be easily customizable. Modify the CSS or add additional components as needed to fit your specific requirements.
 7. **Contribute**: Feel free to contribute to this project by submitting pull requests or opening issues. Contributions are always welcome!
 
-
-``` might take this repo down as imma make a new one w updated faq dashboard besides login.```
